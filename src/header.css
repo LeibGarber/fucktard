@@ -2,16 +2,20 @@
   border: 1px green solid;
 }
 
-.header-container button{
-  position: absolute;
+.header-container{
+  position: fixed;
   display: flex;
   font-size: 40px;
   top: 0;
-  left: 70vw;
   flex-direction: row;
   justify-content: space-around;
+  background: transparent;  
+}
+
+.header-contrainer button{
+  font-family: 'Permanent Marker', cursive;
+  background: transparent;  
   height: 10vh;
-  color: green;
-  background-color: 0;
-  font-family: 'Perminent Marker', cursive;
+  color: white;
+  left: 10vw;
 }
