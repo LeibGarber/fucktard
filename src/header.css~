@@ -1,0 +1,10 @@
+.carousel img {
+  width: auto;
+  height: 100vw;
+  filter: greyscale(75%);
+}
+
+.carousel:hover {
+  opacity: .8;
+  filter: greyscale(100%);
+}
