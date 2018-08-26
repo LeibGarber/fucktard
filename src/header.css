@@ -9,12 +9,20 @@
   top: 0;
   flex-direction: row;
   justify-content: space-around;
+<<<<<<< HEAD
   background: transparent;  
+=======
+  background: transparent;
+>>>>>>> 2e8be929c7527f20cac2dc1c1daefe80e36dbb0c
 }
 
 .header-contrainer button{
   font-family: 'Permanent Marker', cursive;
+<<<<<<< HEAD
   background: transparent;  
+=======
+  background: transparent;
+>>>>>>> 2e8be929c7527f20cac2dc1c1daefe80e36dbb0c
   height: 10vh;
   color: white;
   left: 10vw;
