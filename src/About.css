@@ -4,7 +4,8 @@
   left: 25vw;
   background-color: #eeeeee;
   border-radius: 2px;
-  box-shadow: 2px 2px 12px 1px #bbbbbb;
+  box-shadow: 3px 3px 12px 1px #bbbbbb;
+  margin-bottom: 3vh;
 }
 
 .about-img-div {
