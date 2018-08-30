@@ -56,7 +56,12 @@
   background-color: #dddddd;
 }
 
+.about-moran img{
+  margin-left: -29px; 
+}
+
 .about-moran ul {
+  margin-top: 8vh;
   padding-left: 0;
   padding-right: 5px;
 }
@@ -64,6 +69,10 @@
 .about-ferkin {
   display: flex;
   flex-direction: row;
+}
+
+.about-ferkin ul{
+  margin-top: 10vh;
 }
 
 .about-ferkin img {
