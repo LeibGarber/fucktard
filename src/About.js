@@ -12,7 +12,7 @@ class About extends Component {
 
         <div className='about-jacob about-tile'>
           <div className='about-img-div'>
-            <img src={jacob} alt='temporary img'/>
+            <img src={jacob} alt='Mr Jacob Mirrage'/>
           </div>
           <ul>
             <li><h2>Jacob Mirrage</h2></li>
@@ -29,7 +29,7 @@ class About extends Component {
             <li><h3>VP Head of Human Resources</h3></li>
             <li>I've been working in the tech industry in Israel for 8+ years after being asked to work at CapsLok seeing the experience they already had on board I was very excited to help them build their team</li>
           </ul>
-          <div className='about-img-div'>
+          <div className='about-img-div about-img-div-moran'>
             <img src={moran} alt='Ms Moran Forial'/>
           </div>
         </div>
